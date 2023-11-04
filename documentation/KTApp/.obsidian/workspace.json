@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "9efd6ed7505ae582",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e3989f100485800",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac28761aa20b6f33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objetivo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48c537853eefe317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Módulos relevantes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ceb61a2f7408c2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1d36099cfef13aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0b2e8aff52764a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "880ef9556030b258",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a30751fe2a3a6fd1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e106b0c3f0d65a7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "51765f77bf6f14d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1096e8c70bb93c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Módulos relevantes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d916b4c27374bd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Módulos relevantes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ceb07e948ac9c15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "653986da0678f774",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Módulos relevantes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "48c537853eefe317",
+  "lastOpenFiles": [
+    "Profiles.md",
+    "profiles.md",
+    "Objetivo.md",
+    "Módulos relevantes.md"
+  ]
+}
