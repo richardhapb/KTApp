@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = ./backend
+	url = https://github.com/richardhapb/KTApp-Backend.git
 [submodule "frontend"]
 	path = frontend
 	url = ./frontend
